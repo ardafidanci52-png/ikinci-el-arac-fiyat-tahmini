@@ -79,6 +79,11 @@ Modellerin performansları aşağıdaki metrikler kullanılarak değerlendirilmi
 ## Lisans ve Veri Kaynağı
 
 Veri seti Kaggle üzerinden temin edilmiştir. Veri setinin lisansı: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+## Proje Yönetimi ve Geliştirme Süreci
+
+Projenin geliştirme süreci GitHub Projects üzerinden Kanban yöntemiyle takip edilmektedir.
+
+[Kanban Panosu](https://github.com/users/ardafidanci52-png/projects/2/views/1)
 
 ---
 
