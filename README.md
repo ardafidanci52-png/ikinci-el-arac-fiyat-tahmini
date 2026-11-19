@@ -73,8 +73,8 @@ Modellerin performansları aşağıdaki metrikler kullanılarak değerlendirilmi
 ## Proje Ekibi
 
 - Arda Fidancı
-- Görkem
-- Burak
+- Görkem Yılmaz
+- Burak Kerem Çakubay
 
 ## Lisans ve Veri Kaynağı
 
